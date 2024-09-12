@@ -1,0 +1,5 @@
+name: beacon_mainnet_withdraw_realtime # required, not space or specical chars allowed
+source:
+  startBlock: 6209540
+blockHandlers:
+  - handler: HandleWithdrawalsRealtimeByBlock

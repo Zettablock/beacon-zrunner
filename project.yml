@@ -1,0 +1,7 @@
+specVersion: 0.0.1 # not used for now
+org: my_org # required, usually this should be company name without space. Only alphanumeric characters and underscores are allowed.
+kind: beacon # chain name
+network: mainnet # chain network
+version: 1.0.0
+name: beacon-zrunner # required, not space or special chars allowed, must be consistent with the project folder name
+githubRepo: "https://github.com/Zettablock/beacon-zrunner.git"
